@@ -36,11 +36,6 @@ body
 	cursor: pointer;
 }
 
-.coll.mine
-{
-	background-color: red;
-}
-
 .coll.hidden:hover
 {
 	background-color: #eee;
